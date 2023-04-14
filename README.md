@@ -1,8 +1,6 @@
-👋 Hello and welcome to my GitHub profile! 
+# 👋 Hello and welcome to my GitHub profile! 
 
-# Zohra Neda - Software Developer
-## Introduction
-👩‍💻 My name is Zohra Neda and I am a software developer from Afghanistan. I am passionate about coding and love to create innovative solutions that solve real-world problems.
+👩‍💻 My name is *Zohra Neda* and I am a *Software Developer* from *Afghanistan*. I am passionate about coding and love to create innovative solutions that solve real-world problems.
 
 📚 In addition to coding, I enjoy learning new technologies and keeping up with the latest trends in the tech industry. I believe that continuous learning is essential for personal growth and professional development.
 
