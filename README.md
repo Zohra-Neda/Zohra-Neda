@@ -12,6 +12,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Zohra%20Neda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zohra-neda-3716b720b/)](https://www.linkedin.com/in/zohra-neda-3716b720b/)
 [![Twitter Badge](https://img.shields.io/badge/-@Zohra_Neda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zohra_neda)](https://twitter.com/zohra_neda)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zohra-Neda&label=Profile%20views&color=0e75b6&style=flat" alt="zohra-neda" /> </p>
 
 
 
