@@ -1,4 +1,5 @@
 <h2 align="center"> Hello 👋 Welcome To My Profile 🤭  </h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zohra-Neda&label=Profile%20views&color=0e75b6&style=flat" alt="zohra-neda" /> </p>
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=My+Name++is++Zohra+Neda;I+am++a++Full-Stack-Developer!!&center=true&width=380&height=45"></a>
@@ -11,7 +12,7 @@
 <p><em>Full-stack developer, open to new opportunities!</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Zohra%20Neda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zohra-neda-3716b720b/)](https://www.linkedin.com/in/zohra-neda-3716b720b/)
-[![Twitter Badge](https://img.shields.io/badge/-@Zohra_Neda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zohra_neda)](https://twitter.com/zohra_neda) <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zohra-Neda&label=Profile%20views&color=0e75b6&style=flat" alt="zohra-neda" /> </p>
+[![Twitter Badge](https://img.shields.io/badge/-@Zohra_Neda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zohra_neda)](https://twitter.com/zohra_neda) 
 
 
 
